@@ -1,0 +1,145 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 31, 2018, 1:05:01 AM
+    Author     : ChamathDilshJay
+*/
+
+body{
+	background:url(../images/bg.jpg)  no-repeat center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+ 	background-size: cover;
+ 	position:relative;
+ 	font-family: 'Open Sans', sans-serif;
+
+}
+
+hr { 
+  color : #ffc515;
+}
+
+.posts{
+  width: 320px;
+  padding: 10px;
+  border: 5px solid #ffc515;
+  margin: 15px;
+  background-color: white;
+  border-radius: 25px;
+}
+
+.site-logo {
+	display: table-cell;
+	width: 241px;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.site-logo h1 {
+	padding: 25px 0;
+	color: #fff;
+}
+
+.site-logo h1 span {
+	color: #ffc515;
+}
+
+.td_top{
+  vertical-align: top;
+}
+
+
+.loginbtn {
+	border-radius: 12px;
+	padding: 7px 25px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	transition-duration: 0.4s;
+	cursor: pointer;
+}
+
+.loginbtn1 {
+	background-color: #fff0b3; 
+	color: #a88200; 
+	text-shadow: 1px 1px #ffc515; 
+	border: 2px solid #ffc515;
+}
+
+.loginbtn1:hover {
+	background-color: #ffc515;
+	color: white;
+	border: 2px solid #ffc515;
+}
+
+.loginbtn2 {
+        background-color: #ffc515;
+	color: white;
+	border: 2px solid #ffc515;
+}
+
+.loginbtn2:hover {
+	background-color: #fff0b3; 
+	color: #a88200; 
+	text-shadow: 1px 1px #ffc515; 
+	border: 2px solid #ffc515;
+}
+
+.loginbtn3 {
+	border-radius: 12px;
+	padding: 5px 15px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 12px;
+	margin: 4px 2px;
+	transition-duration: 0.4s;
+	cursor: pointer;
+        background-color: #fff0b3; 
+	color: #a88200; 
+	text-shadow: 1px 1px #ffc515; 
+	border: 2px solid #ffc515;
+}
+
+.loginbtn3:hover {
+	background-color: #ffc515;
+	color: white;
+	border: 2px solid #ffc515;
+}
+
+.loginbtn4 {
+	border-radius: 12px;
+	padding: 5px 15px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 12px;
+	margin: 4px 2px;
+	transition-duration: 0.4s;
+	cursor: pointer;
+        background-color: red;
+	color: white;
+	border: 2px solid #ffc515;
+}
+
+.loginbtn4:hover {
+        background-color: pink; 
+	color: red; 
+	text-shadow: 1px 1px #ffc515; 
+	border: 2px solid #ffc515;
+}
+
+h2{
+        text-align:center;
+        color: white;
+}
+
+h3{
+        color:#ffb84d;
+}

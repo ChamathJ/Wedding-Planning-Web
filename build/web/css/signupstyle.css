@@ -1,0 +1,85 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 26, 2018, 8:55:27 PM
+    Author     : ChamathDilshJay
+*/
+
+body{
+	background:url(../images/bg.jpg)  no-repeat center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+ 	background-size: cover;
+ 	position:relative;
+ 	font-family: 'Open Sans', sans-serif;
+}
+
+.loginbtn {
+	border-radius: 12px;
+	padding: 5px 15px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 12px;
+	margin: 4px 2px;
+	transition-duration: 0.4s;
+	cursor: pointer;
+}
+  
+.loginbtn1 {
+	background-color: #fff0b3; 
+	color: #a88200; 
+	text-shadow: 1px 1px #ffc515; 
+	border: 2px solid #ffc515;
+}
+
+.loginbtn1:hover {
+	background-color: #ffc515;
+	color: white;
+	border: 2px solid #ffc515;
+}
+
+.site-logo {
+	display: table-cell;
+	width: 241px;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.site-logo h1 {
+	padding: 25px 0;
+	color: #fff;
+}
+
+.site-logo h1 span {
+	color: #ffc515;
+}
+
+.login-form {
+	background: url(../images/bgf2.png) no-repeat 100% 0%;
+	background-size: 100%;
+	width:30%;
+	margin:1% auto 4% auto;
+ 	position: relative;
+}
+
+.forgot{
+	margin:30px 7px;
+}
+.forgot h3 a{
+	color:#fff;
+	font-size:15px;
+	font-family: 'Open Sans', sans-serif;	
+	float:right;
+	font-weight:600;
+	margin-top:19px;
+}
+.forgot h3 a:hover{
+	color:#FFC600;
+}
+
+h4,h1 {margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline;}

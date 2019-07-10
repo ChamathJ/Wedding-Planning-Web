@@ -1,0 +1,111 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 07/05/2018 09:09
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-001-couple:before { content: "\f100"; }
+.flaticon-002-wedding-dress:before { content: "\f101"; }
+.flaticon-003-wedding-cake:before { content: "\f102"; }
+.flaticon-004-wedding-video:before { content: "\f103"; }
+.flaticon-005-time:before { content: "\f104"; }
+.flaticon-006-high-heels:before { content: "\f105"; }
+.flaticon-007-wedding-photo:before { content: "\f106"; }
+.flaticon-008-placeholder:before { content: "\f107"; }
+.flaticon-009-violin:before { content: "\f108"; }
+.flaticon-010-shoe:before { content: "\f109"; }
+.flaticon-011-knife:before { content: "\f10a"; }
+.flaticon-012-just-married:before { content: "\f10b"; }
+.flaticon-013-wedding-invitation:before { content: "\f10c"; }
+.flaticon-014-bible:before { content: "\f10d"; }
+.flaticon-015-hearts:before { content: "\f10e"; }
+.flaticon-016-suit:before { content: "\f10f"; }
+.flaticon-017-groom:before { content: "\f110"; }
+.flaticon-018-gift-box:before { content: "\f111"; }
+.flaticon-019-envelope:before { content: "\f112"; }
+.flaticon-020-door-hanger:before { content: "\f113"; }
+.flaticon-021-ring:before { content: "\f114"; }
+.flaticon-022-wedding:before { content: "\f115"; }
+.flaticon-023-cupcake:before { content: "\f116"; }
+.flaticon-024-cosmetic:before { content: "\f117"; }
+.flaticon-025-church:before { content: "\f118"; }
+.flaticon-026-champagne:before { content: "\f119"; }
+.flaticon-027-chair:before { content: "\f11a"; }
+.flaticon-028-cheers:before { content: "\f11b"; }
+.flaticon-029-candlestick:before { content: "\f11c"; }
+.flaticon-030-camera:before { content: "\f11d"; }
+.flaticon-031-calendar:before { content: "\f11e"; }
+.flaticon-032-bride:before { content: "\f11f"; }
+.flaticon-033-bouquet:before { content: "\f120"; }
+.flaticon-034-bell:before { content: "\f121"; }
+.flaticon-035-bed:before { content: "\f122"; }
+.flaticon-036-balloon:before { content: "\f123"; }
+    
+    $font-Flaticon-001-couple: "\f100";
+    $font-Flaticon-002-wedding-dress: "\f101";
+    $font-Flaticon-003-wedding-cake: "\f102";
+    $font-Flaticon-004-wedding-video: "\f103";
+    $font-Flaticon-005-time: "\f104";
+    $font-Flaticon-006-high-heels: "\f105";
+    $font-Flaticon-007-wedding-photo: "\f106";
+    $font-Flaticon-008-placeholder: "\f107";
+    $font-Flaticon-009-violin: "\f108";
+    $font-Flaticon-010-shoe: "\f109";
+    $font-Flaticon-011-knife: "\f10a";
+    $font-Flaticon-012-just-married: "\f10b";
+    $font-Flaticon-013-wedding-invitation: "\f10c";
+    $font-Flaticon-014-bible: "\f10d";
+    $font-Flaticon-015-hearts: "\f10e";
+    $font-Flaticon-016-suit: "\f10f";
+    $font-Flaticon-017-groom: "\f110";
+    $font-Flaticon-018-gift-box: "\f111";
+    $font-Flaticon-019-envelope: "\f112";
+    $font-Flaticon-020-door-hanger: "\f113";
+    $font-Flaticon-021-ring: "\f114";
+    $font-Flaticon-022-wedding: "\f115";
+    $font-Flaticon-023-cupcake: "\f116";
+    $font-Flaticon-024-cosmetic: "\f117";
+    $font-Flaticon-025-church: "\f118";
+    $font-Flaticon-026-champagne: "\f119";
+    $font-Flaticon-027-chair: "\f11a";
+    $font-Flaticon-028-cheers: "\f11b";
+    $font-Flaticon-029-candlestick: "\f11c";
+    $font-Flaticon-030-camera: "\f11d";
+    $font-Flaticon-031-calendar: "\f11e";
+    $font-Flaticon-032-bride: "\f11f";
+    $font-Flaticon-033-bouquet: "\f120";
+    $font-Flaticon-034-bell: "\f121";
+    $font-Flaticon-035-bed: "\f122";
+    $font-Flaticon-036-balloon: "\f123";
